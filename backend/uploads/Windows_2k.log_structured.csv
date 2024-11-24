@@ -1,0 +1,9 @@
+LineId,Date,Time,Level,Component,Content,EventId,EventTemplate
+5,28-09-2016,04:30:31,Info,CBS,Ending TrustedInstaller initialization.,E17,Ending TrustedInstaller initialization.
+6,28-09-2016,04:30:31,Info,CBS,Starting the TrustedInstaller main loop.,E44,Starting the TrustedInstaller main loop.
+7,28-09-2016,04:30:31,Info,CBS,TrustedInstaller service starts successfully.,E48,TrustedInstaller service starts successfully.
+8,28-09-2016,04:30:31,Info,CBS,SQM: Initializing online with Windows opt-in: False,E40,SQM: Initializing online with Windows opt-in: False
+9,28-09-2016,04:30:31,Info,CBS,SQM: Cleaning up report files older than 10 days.,E37,SQM: Cleaning up report files older than <*> days.
+10,28-09-2016,04:30:31,Info,CBS,SQM: Requesting upload of all unsent reports.,E42,SQM: Requesting upload of all unsent reports.
+11,28-09-2016,04:30:31,Info,CBS,"SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]",E39,"SQM: Failed to start upload with file pattern: <*>, flags: <*> [HRESULT = <*> - E_FAIL]"
+12,28-09-2016,04:30:31,Info,CBS,SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL],E38,SQM: Failed to start standard sample upload. [HRESULT = <*> - E_FAIL]
