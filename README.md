@@ -17,7 +17,7 @@ This project leverages state-of-the-art AI models and vector search technologies
 
 ## Architecture
 
-<img src="./Images/Architecture.jpg" width="300" height="200" alt="Description"/>
+<img src="./Images/Architecture.jpg" alt="Architecture"/>
 
 The system implements a sophisticated pipeline combining several cutting-edge technologies:
 
