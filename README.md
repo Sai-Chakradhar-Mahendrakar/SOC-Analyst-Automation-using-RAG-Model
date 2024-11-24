@@ -21,12 +21,12 @@ The system implements a sophisticated pipeline combining several cutting-edge te
 
 1. **Log Ingestion Interface**
    - User-friendly interface for log file uploads
-   - Supports multiple log formats
+   - Supports mutiple log file format .csv, .log, .txt. .md 
    - Streamlined data input process
 
 2. **Log Processing Engine**
    - Intelligent log chunking for optimal processing
-   - BERT-based text embeddings using Nomic
+   - BERT-based text embeddings using Nomic-Embedded text
    - Advanced preprocessing for enhanced accuracy
 
 3. **Vector Storage and Search**
@@ -42,7 +42,6 @@ The system implements a sophisticated pipeline combining several cutting-edge te
 5. **Visualization Dashboard**
    - Real-time log categorization
    - Interactive metrics and statistics
-   - Customizable views and filters
 
 ## Installation
 
@@ -58,15 +57,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Configuration
-
-1. Create a `.env` file in the project root:
-```env
-LAMA_API_KEY=your_api_key
-NOMIC_API_KEY=your_nomic_key
-```
-
-2. Configure the vector database settings in `config/faiss_config.yaml`
 
 ## Usage
 
@@ -78,8 +68,10 @@ python app.py
 2. Access the web interface at `http://localhost:8000`
 
 3. Upload log files through the interface
+   
+4. Get resopnse for user query
 
-4. View results in the dashboard
+5. View results in the dashboard
 
 ## Dependencies
 
@@ -89,6 +81,7 @@ python app.py
 - Nomic Embedded Text
 - BERT Transformers
 - React + Vite
+- Fast API
 - Additional requirements listed in `requirements.txt`
 
 ## Project Structure
