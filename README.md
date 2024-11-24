@@ -17,6 +17,8 @@ This project leverages state-of-the-art AI models and vector search technologies
 
 ## Architecture
 
+<img src="./Images/Architecture.jpg" width="300" height="200" alt="Description"/>
+
 The system implements a sophisticated pipeline combining several cutting-edge technologies:
 
 1. **Log Ingestion Interface**
@@ -103,6 +105,26 @@ soc-automation/
 ├── requirements.txt
 └── README.md
 ```
+## Home Page
+
+<img src="./Images/Home_page.jpg" width="500" alt="Description"/>
+
+## File Upload
+
+<img src="./Images/File_Upload.jpg" width="300" height="200" alt="Description"/>
+
+## Query Interface
+
+<img src="./Images/query_Interface.jpg" width="300" height="200" alt="Description"/>
+
+## Dash Board (Statistics)
+
+<img src="./Images/DashBoard.jpg" width="300" height="200" alt="Description"/>
+
+## Dash Board (Recent Logs)
+
+<img src="./Images/DashBoard2.jpg" width="300" height="200" alt="Description"/>
+
 
 ## Contributing
 
