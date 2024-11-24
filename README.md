@@ -107,7 +107,7 @@ soc-automation/
 ```
 ## Home Page
 
-<img src="./Images/Home_page.jpg" alt="Description"/>
+<img src="./Images/HomePage.jpg" alt="Description"/>
 
 ## File Upload
 
