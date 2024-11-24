@@ -107,23 +107,23 @@ soc-automation/
 ```
 ## Home Page
 
-<img src="./Images/Home_page.jpg" width="500" alt="Description"/>
+<img src="./Images/Home_page.jpg" alt="Description"/>
 
 ## File Upload
 
-<img src="./Images/File_Upload.jpg" width="300" height="200" alt="Description"/>
+<img src="./Images/File_Upload.jpg" alt="Description"/>
 
 ## Query Interface
 
-<img src="./Images/query_Interface.jpg" width="300" height="200" alt="Description"/>
+<img src="./Images/query_Interface.jpg" alt="Description"/>
 
 ## Dash Board (Statistics)
 
-<img src="./Images/DashBoard.jpg" width="300" height="200" alt="Description"/>
+<img src="./Images/DashBoard.jpg" alt="Description"/>
 
 ## Dash Board (Recent Logs)
 
-<img src="./Images/DashBoard2.jpg" width="300" height="200" alt="Description"/>
+<img src="./Images/DashBoard2.jpg" alt="Description"/>
 
 
 ## Contributing
