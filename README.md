@@ -52,8 +52,8 @@ The system implements a sophisticated pipeline combining several cutting-edge te
 git clone https://github.com/Sai-Chakradhar-Mahendrakar/SOC-Analyst-Automation-using-RAG-Model.git
 
 # Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv env_name
+source env_name/bin/activate  # On Windows: env_name\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
