@@ -90,19 +90,38 @@ python app.py
 
 ```
 soc-automation/
-├── app/
-│   ├── core/
-│   │   ├── log_processor.py
-│   │   ├── vector_store.py
-│   │   └── ai_engine.py
-│   ├── api/
-│   │   └── routes.py
-│   └── dashboard/
-│       └── views.py
-├── config/
-│   └── faiss_config.yaml
-├── tests/
-├── requirements.txt
+├── FrontEnd/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets
+|   |   ├── Components
+|   |   └──App.css
+|   |   └──App.jsx
+|   |   └──index.css
+|   |   └──main.jsx
+│   └──  index.html
+|   └──  ReadMe.md
+|
+├── Backend/
+│   ├── data/
+|   |   └──Windows_2k.log_structured.csv
+│   ├── logs/
+|   |   └──log4.log
+|   |   └──logs.md
+|   |   └──logs1.md
+|   |   └──logs2.md
+│   ├── src/
+│   │   ├──api
+│   │   ├──chains
+│   │   ├──loaders
+│   │   ├──utils
+|   |   └──main.py
+│   ├── uploads/
+|   |   └──Windows_2k.log_structured.csv
+|   |   └──logs2.md
+|   └──requirement.txt
+|
+├── Images/
 └── README.md
 ```
 ## Home Page
