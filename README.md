@@ -1,4 +1,4 @@
-# SOC Automation Platform
+# AI-powered SOC Assistant (Chatbot/Automation Tool)
 
 An intelligent automation platform designed to enhance SOC Level 1 analyst operations using advanced AI and vector search capabilities.
 
